@@ -26,9 +26,6 @@ header {
     justify-content: space-between;
     min-width: 300px;
   }
-  .li {
-    color: #F9BE58;
-  }
   h1 {
     font-size: 250%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -164,51 +161,17 @@ header {
   }
 
   @media screen and (max-width: 992px) {
-    header {
+    body {
       width: 100%;
-      background: #1D6470;
     }
   }
   @media screen and (max-width: 768px) {
-    body, .header, .nav, .main, .form  {
-      width: 50%;
-      display: block;
-    }
-  } 
-  @media screen and (max-width: 768px) {
-    body, .header, .main {
-      width: 50%;
-      display: flex;
-      flex-direction: column;
+    body {
+      width: 100%;
     }
   }
   @media screen and (max-width: 576px) {
-    h2, h3, h4, h5 {
-      color: #8ac4ff;
-    }
-  }
-  @media screen and (max-width: 576px) {
-    header, .nav, .ul {
-      display: flex;
-      flex-direction: column;
-  }
-  }
-  @media screen and (max-width: 576px) {
-    body, .header, .main {
-      width: 25%;
-      display: flex;
-      flex-direction: column;
-    }
-  }
-  @media screen and (max-width: 576px) {
-    body, .header, .main {
-      width: 25%;
-      display: flex;
-      flex-direction: column;
-    }
-  }
-  @media screen and (max-width: 576px) {
-    .form {
-      width: 25%;
+    body {
+      width: 100%;
     }
   }
