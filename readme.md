@@ -13,3 +13,8 @@ I learned a lot during this assignment; how to create multiple sections on a pag
 The problems solved by this assignment are:
 * Created a place for potential employers to learn about me.
 * Created landing page/portfolio to house my work. 
+
+![Screenshot-1](https://user-images.githubusercontent.com/82903201/122256682-4ce20400-ce9d-11eb-8f9e-083ee7348eee.png)
+![Screenshot-2](https://user-images.githubusercontent.com/82903201/122256688-4e133100-ce9d-11eb-814d-102d8788072a.png)
+![Screenshot-3](https://user-images.githubusercontent.com/82903201/122256696-4eabc780-ce9d-11eb-93e0-c1eaee1424cf.png)
+![Screenshot-4](https://user-images.githubusercontent.com/82903201/122256700-4eabc780-ce9d-11eb-86f4-757ea5b17d67.png)
