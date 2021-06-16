@@ -131,6 +131,10 @@ figcaption {
   font-family: monospace;
   font-size: 20px;
 }
+div#placeholder-box {
+  display: flex;
+  justify-content: space-evenly;
+}
 
 #content.p {
   text-align: left;
@@ -210,5 +214,11 @@ footer {
     display: flex;
     flex-direction: row;
     width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  body,
+  img {
+    flex-direction: column;
   }
 }
