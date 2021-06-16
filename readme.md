@@ -20,4 +20,4 @@ The problems solved by this assignment are:
 ![Screenshot-4](https://user-images.githubusercontent.com/82903201/122256700-4eabc780-ce9d-11eb-86f4-757ea5b17d67.png)
 
 ## Additional Notes
-* I only have 1 deployed application at the moment, so that is linked to all 3 placeholder images. 
+* I only have 1 deployed application at the moment, so that is linked to both placeholder images. 
