@@ -117,11 +117,13 @@ header {
     width: fit-content;
     text-align: center;
   }
+  
   figcaption {
     color: #19ACAD;
     font-family: monospace;
     font-size: 20px;
   }
+  
   #content.p {
     text-align: left;
     width: 100%;
@@ -151,10 +153,13 @@ header {
     cursor: pointer;
     border: 2px solid black;
   }
-  #vertical-line {
+  #vertical-line,
+  #vertical-line2,
+  #vertical-line3,
+  #vertical-line4 {
     border-left: 6px dotted #F9BE58;
-    height: 200%;
-    position: absolute;
+    height: 285%;
+    position: fixed;
     left: 25%;
     top: 0;
     bottom: 0;
@@ -162,16 +167,18 @@ header {
 
   @media screen and (max-width: 992px) {
     body {
-      width: 100%;
+      display: flex;
+      width: initial;
     }
   }
   @media screen and (max-width: 768px) {
     body {
-      width: 100%;
+      display: flex;
+      width: initial;
     }
   }
   @media screen and (max-width: 576px) {
     body {
-      width: 100%;
+      width: initial;
     }
   }
