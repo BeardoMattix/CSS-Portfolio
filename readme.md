@@ -18,3 +18,6 @@ The problems solved by this assignment are:
 ![Screenshot-2](https://user-images.githubusercontent.com/82903201/122256688-4e133100-ce9d-11eb-814d-102d8788072a.png)
 ![Screenshot-3](https://user-images.githubusercontent.com/82903201/122256696-4eabc780-ce9d-11eb-93e0-c1eaee1424cf.png)
 ![Screenshot-4](https://user-images.githubusercontent.com/82903201/122256700-4eabc780-ce9d-11eb-86f4-757ea5b17d67.png)
+
+## Additional Notes
+* I only have 1 deployed application at the moment, so that is linked to all 3 placeholder images. 
