@@ -48,6 +48,9 @@ h2 {
   text-shadow: 1px 2px 3px rgb(145, 142, 142);
   align-self: baseline;
 }
+h3 {
+  color: #f9be58;
+}
 #content.about-me,
 #content.my-work,
 #content.contact-me,
@@ -169,6 +172,15 @@ input[type="submit"] {
   left: 25%;
   top: 0;
   bottom: 0;
+}
+footer {
+  padding: 20px;
+  text-align: center;
+  background: #13293d;
+  color: #fff;
+  z-index: 9999;
+  border-top: 5px solid #f9be58;
+  color:lightcoral;
 }
 
 @media screen and (max-width: 992px) {
